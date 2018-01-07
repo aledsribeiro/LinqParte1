@@ -1,0 +1,20 @@
+c:\users\5a_pc1\documents\visual studio 2012\Projects\Linq\Linq.LojaMusica\bin\Debug\Linq.LojaMusica.exe.config
+c:\users\5a_pc1\documents\visual studio 2012\Projects\Linq\Linq.LojaMusica\bin\Debug\Linq.LojaMusica.exe
+c:\users\5a_pc1\documents\visual studio 2012\Projects\Linq\Linq.LojaMusica\bin\Debug\Linq.LojaMusica.pdb
+c:\users\5a_pc1\documents\visual studio 2012\Projects\Linq\Linq.LojaMusica\obj\Debug\Linq.LojaMusica.csprojResolveAssemblyReference.cache
+c:\users\5a_pc1\documents\visual studio 2012\Projects\Linq\Linq.LojaMusica\obj\Debug\Linq.LojaMusica.exe
+c:\users\5a_pc1\documents\visual studio 2012\Projects\Linq\Linq.LojaMusica\obj\Debug\Linq.LojaMusica.pdb
+C:\Users\aleds\Desktop\Linq\Linq.LojaMusica\obj\Debug\Linq.LojaMusica.csprojResolveAssemblyReference.cache
+C:\Users\aleds\Desktop\Linq\Linq.LojaMusica\obj\Debug\Linq.LojaMusica.exe
+C:\Users\aleds\Desktop\Linq\Linq.LojaMusica\obj\Debug\Linq.LojaMusica.pdb
+C:\Users\aleds\Desktop\Linq\Linq.LojaMusica\bin\Debug\Data\Tunes.mdf
+C:\Users\aleds\Desktop\Linq\Linq.LojaMusica\bin\Debug\Data\Tunes_log.ldf
+C:\Users\aleds\Desktop\Linq\Linq.LojaMusica\bin\Debug\Tunes.mdf
+C:\Users\aleds\Desktop\Linq\Linq.LojaMusica\bin\Debug\Tunes_log.ldf
+C:\Users\aleds\Desktop\Linq\Linq.LojaMusica\bin\Debug\Linq.LojaMusica.exe.config
+C:\Users\aleds\Desktop\Linq\Linq.LojaMusica\bin\Debug\Linq.LojaMusica.exe
+C:\Users\aleds\Desktop\Linq\Linq.LojaMusica\bin\Debug\Linq.LojaMusica.pdb
+C:\Users\aleds\Desktop\Linq\Linq.LojaMusica\bin\Debug\EntityFramework.dll
+C:\Users\aleds\Desktop\Linq\Linq.LojaMusica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aleds\Desktop\Linq\Linq.LojaMusica\bin\Debug\EntityFramework.xml
+C:\Users\aleds\Desktop\Linq\Linq.LojaMusica\bin\Debug\EntityFramework.SqlServer.xml
